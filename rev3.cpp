@@ -1,3 +1,7 @@
+//SAI SANKAR
+//23070123112
+//ENTC B2
+
 #include<iostream>
 #include<string.h>
 using namespace std;
